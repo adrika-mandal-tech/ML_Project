@@ -1,0 +1,33 @@
+2025-04-17 22:48:42,951 - INFO - Model loaded from RidgeModel.pk1
+2025-04-17 22:48:42,971 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.29.209:5001
+2025-04-17 22:48:42,971 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 22:48:44,723 - INFO - 127.0.0.1 - - [17/Apr/2025 22:48:44] "GET / HTTP/1.1" 200 -
+2025-04-17 22:48:44,880 - INFO - 127.0.0.1 - - [17/Apr/2025 22:48:44] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-04-17 22:48:46,281 - INFO - 127.0.0.1 - - [17/Apr/2025 22:48:46] "GET / HTTP/1.1" 200 -
+2025-04-17 22:48:54,557 - INFO - 127.0.0.1 - - [17/Apr/2025 22:48:54] "POST /predict HTTP/1.1" 200 -
+2025-04-17 22:50:07,003 - INFO - Model loaded from RidgeModel.pk1
+2025-04-17 22:50:07,023 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.29.209:5001
+2025-04-17 22:50:07,023 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 22:50:09,078 - INFO - 127.0.0.1 - - [17/Apr/2025 22:50:09] "GET / HTTP/1.1" 200 -
+2025-04-17 22:50:09,267 - INFO - 127.0.0.1 - - [17/Apr/2025 22:50:09] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-04-17 22:50:11,269 - INFO - 127.0.0.1 - - [17/Apr/2025 22:50:11] "GET / HTTP/1.1" 200 -
+2025-04-17 22:50:28,155 - INFO - 127.0.0.1 - - [17/Apr/2025 22:50:28] "POST /predict HTTP/1.1" 200 -
+2025-04-17 22:50:38,627 - INFO - 127.0.0.1 - - [17/Apr/2025 22:50:38] "POST /predict HTTP/1.1" 200 -
+2025-04-17 22:50:44,437 - INFO - 127.0.0.1 - - [17/Apr/2025 22:50:44] "POST /predict HTTP/1.1" 200 -
+2025-04-17 22:51:01,623 - INFO - 127.0.0.1 - - [17/Apr/2025 22:51:01] "POST /predict HTTP/1.1" 200 -
+2025-04-17 23:41:37,926 - INFO - Successfully loaded model from RidgeModel.pk1
+2025-04-17 23:41:37,947 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.29.209:5001
+2025-04-17 23:41:37,947 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 23:41:39,944 - INFO - 127.0.0.1 - - [17/Apr/2025 23:41:39] "GET / HTTP/1.1" 200 -
+2025-04-17 23:41:40,172 - INFO - 127.0.0.1 - - [17/Apr/2025 23:41:40] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-04-17 23:41:42,415 - INFO - 127.0.0.1 - - [17/Apr/2025 23:41:42] "GET / HTTP/1.1" 200 -
+2025-04-17 23:41:52,936 - INFO - 127.0.0.1 - - [17/Apr/2025 23:41:52] "POST /predict HTTP/1.1" 200 -
